@@ -1,6 +1,6 @@
 {
   "name": "Grey Vision",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "manifest_version": 2,
   "description": "Removes all views, likes, and subscription numbers from youtube for a cleaner experience without pre-judgements.",
   "homepage_url": "http://www.TomLum.com/greyvision",
@@ -21,8 +21,8 @@
       "matches": [
         "https://www.youtube.com/*"
       ],
-      "js": [
-        "src/inject/injectYoutube.js"
+      "css": [
+        "src/inject/injectYoutube.css"
       ]
     }
   ]
