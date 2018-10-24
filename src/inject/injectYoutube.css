@@ -10,7 +10,8 @@ count-text,
 #vote-count-middle,
 #metadata-line .style-scope:first-child,
 #subscriber-count,
-#subscribers
+#subscribers,
+.ytp-videowall-still-info-author
 {
 	display: none !important;
 }
