@@ -5,7 +5,7 @@
 ytd-sentiment-bar-renderer,
 ytd-badge-supported-renderer,
 ytd-subscribe-button-renderer span,
-ytd-comments-header-renderer,
+count-text style-scope ytd-comments-header-renderer,
 count-text,
 #vote-count-middle,
 #metadata-line .style-scope:first-child,
